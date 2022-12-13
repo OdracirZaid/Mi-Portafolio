@@ -1,0 +1,42 @@
+.title__div {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1230px;
+  height: 368px;
+  background: #f4f4;
+}
+.title__profile {
+  border-radius: 45%;
+  width: 368px;
+  height: 368px;
+  
+}
+.title__bio {
+  display: flex;
+  justify-content: center;
+  width: 751px;
+  height: 122px;
+  text-align: center;
+  color: #464646;
+  font-size: 45px;
+  line-height: 61px;
+}
+.title__subsection {
+  width: 751px;
+  height: 52px;
+  text-align: center;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 26px;
+}
+.title__network {
+  width: 467px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 32px;
+}
